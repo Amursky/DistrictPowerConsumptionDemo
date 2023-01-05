@@ -1,2 +1,2 @@
 # DisptrictPowerConsumptionDemo
-DEmo-application of district electric power consumption
+Demo-application of an emulated district electric power consumption
