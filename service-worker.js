@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Amursky/DistrictPowerConsumptionDemo/precache-manifest.1f0b1c5145871498104d29e550b83b60.js"
+  "/DistrictPowerConsumptionDemo/precache-manifest.6ca3ec5eeab097a644f172f266a3e678.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Amursky/DistrictPowerConsumptionDemo/index.html", {
+workbox.routing.registerNavigationRoute("/DistrictPowerConsumptionDemo/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
