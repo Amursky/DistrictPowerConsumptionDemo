@@ -1,15 +1,15 @@
 {
-  "main.css": "/DistrictPowerConsumptionDemo/static/css/main.a618d28a.chunk.css",
-  "main.js": "/DistrictPowerConsumptionDemo/static/js/main.b4a4eb99.chunk.js",
-  "main.js.map": "/DistrictPowerConsumptionDemo/static/js/main.b4a4eb99.chunk.js.map",
-  "runtime~main.js": "/DistrictPowerConsumptionDemo/static/js/runtime~main.6f2dbe7e.js",
-  "runtime~main.js.map": "/DistrictPowerConsumptionDemo/static/js/runtime~main.6f2dbe7e.js.map",
-  "static/css/2.0e3e38ac.chunk.css": "/DistrictPowerConsumptionDemo/static/css/2.0e3e38ac.chunk.css",
-  "static/js/2.4c025b1c.chunk.js": "/DistrictPowerConsumptionDemo/static/js/2.4c025b1c.chunk.js",
-  "static/js/2.4c025b1c.chunk.js.map": "/DistrictPowerConsumptionDemo/static/js/2.4c025b1c.chunk.js.map",
-  "index.html": "/DistrictPowerConsumptionDemo/index.html",
-  "precache-manifest.201eed5ff9906e65b2dc7ccb8c5a6fb0.js": "/DistrictPowerConsumptionDemo/precache-manifest.201eed5ff9906e65b2dc7ccb8c5a6fb0.js",
-  "service-worker.js": "/DistrictPowerConsumptionDemo/service-worker.js",
-  "static/css/2.0e3e38ac.chunk.css.map": "/DistrictPowerConsumptionDemo/static/css/2.0e3e38ac.chunk.css.map",
-  "static/css/main.a618d28a.chunk.css.map": "/DistrictPowerConsumptionDemo/static/css/main.a618d28a.chunk.css.map"
+  "main.css": "/Amursky/DistrictPowerConsumptionDemo/static/css/main.a618d28a.chunk.css",
+  "main.js": "/Amursky/DistrictPowerConsumptionDemo/static/js/main.2226b324.chunk.js",
+  "main.js.map": "/Amursky/DistrictPowerConsumptionDemo/static/js/main.2226b324.chunk.js.map",
+  "runtime~main.js": "/Amursky/DistrictPowerConsumptionDemo/static/js/runtime~main.d6f7de05.js",
+  "runtime~main.js.map": "/Amursky/DistrictPowerConsumptionDemo/static/js/runtime~main.d6f7de05.js.map",
+  "static/css/2.0e3e38ac.chunk.css": "/Amursky/DistrictPowerConsumptionDemo/static/css/2.0e3e38ac.chunk.css",
+  "static/js/2.4c025b1c.chunk.js": "/Amursky/DistrictPowerConsumptionDemo/static/js/2.4c025b1c.chunk.js",
+  "static/js/2.4c025b1c.chunk.js.map": "/Amursky/DistrictPowerConsumptionDemo/static/js/2.4c025b1c.chunk.js.map",
+  "index.html": "/Amursky/DistrictPowerConsumptionDemo/index.html",
+  "precache-manifest.1f0b1c5145871498104d29e550b83b60.js": "/Amursky/DistrictPowerConsumptionDemo/precache-manifest.1f0b1c5145871498104d29e550b83b60.js",
+  "service-worker.js": "/Amursky/DistrictPowerConsumptionDemo/service-worker.js",
+  "static/css/2.0e3e38ac.chunk.css.map": "/Amursky/DistrictPowerConsumptionDemo/static/css/2.0e3e38ac.chunk.css.map",
+  "static/css/main.a618d28a.chunk.css.map": "/Amursky/DistrictPowerConsumptionDemo/static/css/main.a618d28a.chunk.css.map"
 }
