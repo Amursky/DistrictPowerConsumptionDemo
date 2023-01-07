@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "4e55efd0d52ed04a8305",
+    "revision": "6dab7bb0b020b046aaaf",
     "url": "/DistrictPowerConsumptionDemo/static/css/main.2cc51ac6.chunk.css"
   },
   {
-    "revision": "4e55efd0d52ed04a8305",
-    "url": "/DistrictPowerConsumptionDemo/static/js/main.fa717a09.chunk.js"
+    "revision": "6dab7bb0b020b046aaaf",
+    "url": "/DistrictPowerConsumptionDemo/static/js/main.0986a04c.chunk.js"
   },
   {
     "revision": "f9100d43d50a28ef6b0c",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/DistrictPowerConsumptionDemo/static/js/2.4c025b1c.chunk.js"
   },
   {
-    "revision": "5562dd5e1e13ec5b621a820287d4492c",
+    "revision": "903c4362038d446c07ec0a299d7abfb4",
     "url": "/DistrictPowerConsumptionDemo/index.html"
   }
 ];
