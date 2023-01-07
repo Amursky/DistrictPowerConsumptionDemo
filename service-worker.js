@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/DistrictPowerConsumptionDemo/precache-manifest.235b48752e20c20674cd03bb87ec079a.js"
+  "/DistrictPowerConsumptionDemo/precache-manifest.63e9a4049c5c5d09ab426c6283e2bf0d.js"
 );
 
 workbox.clientsClaim();
